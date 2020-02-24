@@ -1,5 +1,5 @@
 # Pune-starter-pack
-### A one-stop guide to people wanting to research/ study Pune city
+### A one-stop guide for research in Pune city
 ###### last updated: 24th February 2020
 
 Essential information and data sources that are required to understand how the city is structured, the administrative, geographical boundaries and other important information. 
